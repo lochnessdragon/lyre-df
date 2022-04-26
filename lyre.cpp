@@ -16,9 +16,10 @@ DFHACK_PLUGIN("lyre");
 
 DFhackCExport command_result plugin_init(color_ostream& out, std::vector<PluginCommand>& commands) {
 	out.print("Lyre Sound Engine Loaded v" xstr(LYRE_VERSION));
+	return CR_OK;
 }
 
 DFhackCExport command_result plugin_shutdown(color_ostream& out) {
-	out.print("Lyre Sound Engine shutting down.")
+	out.print("Lyre Sound Engine shutting down.");
 	return CR_OK;
 }
