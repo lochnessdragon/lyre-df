@@ -1,5 +1,8 @@
-# Lyre Dwarf Fortress
-A new sound engine for dwarf fortress.
+# Lyre Dwarf Fortress 
+
+>A new sound engine for dwarf fortress.
+
+![Lyre Instrument](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Ur_lyre.jpg/140px-Ur_lyre.jpg)
 
 Planned Features:
 1) Playing random songs from a resource pack
